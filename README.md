@@ -1,2 +1,2 @@
 # example
-example for deployment
+chatbot for lawyers using api keys like gemini 
